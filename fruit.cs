@@ -50,6 +50,7 @@ public class fruit : MonoBehaviour
         speedOri = speed;
         status = 200;
         //  Debug.Log(Application.targetFrameRate);
+        //  Debug.Log(Application.targetFrameRate);
         nextPos = this.transform.position;
         lstElectric = new List<GameObject>();
         // loadSkin();
